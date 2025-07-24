@@ -1,1 +1,14 @@
 How to use:
+
+first create your virtual environment " command: python -m venv .venv "
+- then activate it:                         cmd: .venv\Scripts\activate
+then install all dependant google adk tools using pip install from the terminal after you activated virtual env
+
+
+open any of the agent folder
+- stay in root folder of that agent
+- open terminal from there and use these below commands
+example: for basic agent go to dir greet agent from main folder through command >> cd ..
+give command " adk web "
+
+you should see your agent opened in web interface
