@@ -3,6 +3,7 @@ How to use:
 first create your virtual environment " command: python -m venv .venv "
 - then activate it:                         cmd: .venv\Scripts\activate
 then install all dependant google adk tools using pip install from the terminal after you activated virtual env
+use requirement.text file to install all libraries
 
 
 open any of the agent folder
